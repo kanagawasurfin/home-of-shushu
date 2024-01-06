@@ -1,5 +1,5 @@
 # all subreddits based on Chinese contents - updated on 1/6/24
-## numbers of all subreddits: 129
+## numbers of all subreddits: 130
 
 1. [4832](https://www.reddit.com/r/4832)
 2. [AsiaTripper](https://www.reddit.com/r/AsiaTripper)
