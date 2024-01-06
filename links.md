@@ -130,5 +130,7 @@
 127. [txl_irl](https://www.reddit.com/r/txl_irl)
 128. [worldnews](https://www.reddit.com/r/worldnews)
 129. [ZhongNichi](https://www.reddit.com/r/ZhongNichi)
+130. [СhοngLаngΤV](https://www.reddit.com/r/a:t5_50od6q)
+
 
 ## OG published time: 11/10/23
