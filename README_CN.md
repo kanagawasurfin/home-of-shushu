@@ -17,7 +17,7 @@ Reddit的叛逆者们，欢迎光临！🌟
 
 - **txt_links.txt**：所有与中国相关的Subreddit链接的综合列表。😊
 - **links.md**：一个易于查看和访问Subreddit链接的Markdown文件。😊
-- **open.py**：我们项目的核心！该脚本有助于重振您的Reddit体验。使用它直接从命令行打开一系列Subreddit链接。😊
+- **open.py**：核心！该脚本有助于重振您的Reddit体验。使用它直接从命令行打开一系列Subreddit链接（您来决定！）。😊
 - **README.md, README_CN.md, README_JP.md**：英文、中文和日文的说明指南。😊
 
 ## 🚀 如何加入马戏团 🚀
