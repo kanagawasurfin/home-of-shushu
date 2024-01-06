@@ -13,12 +13,12 @@ Reddit的叛逆者们，欢迎光临！🌟
 
 这个虚拟嘉年华旨在帮助我们的中国Reddit用户与他们心爱的Subreddit重聚。就像一个大师级的魔术师，我们让失落的Reddit世界重现！
 
-## 仓库内容
+## 仓库内容 😊
 
-- **txt_links.txt**：所有与中国相关的Subreddit链接的综合列表。😊
-- **links.md**：一个易于查看和访问Subreddit链接的Markdown文件。😊
-- **open.py**：核心！该脚本有助于重振您的Reddit体验。使用它直接从命令行打开一系列Subreddit链接（您来决定！）。😊
-- **README.md, README_CN.md, README_JP.md**：英文、中文和日文的说明指南。😊
+- **txt_links.txt**：所有与中国相关的Subreddit链接的综合列表。
+- **links.md**：一个易于查看和访问Subreddit链接的Markdown文件。
+- **open.py**：核心！该脚本有助于重振您的Reddit体验。使用它直接从命令行打开一系列Subreddit链接（您来决定！）。
+- **README.md, README_CN.md, README_JP.md**：英文、中文和日文的说明指南。
 
 ## 🚀 如何加入马戏团 🚀
 
@@ -50,4 +50,4 @@ python3 open.py
 
 ## 😂 有趣的免责声明 😂
 
-请记住，这个项目完全是出于娱乐。我们鼓励大家遵守Reddit规则，享受这个马戏团的第二次机会！
+请记住，这个项目完全是出于娱乐。我们鼓励大家遵守Reddit规则，享受这个马戏团的第二次机会！（当然如果您太过于浪，我们还会于此相见多次！期待中！✨😊）
